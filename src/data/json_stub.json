@@ -137,7 +137,8 @@
             { "type": "gifs", "variant": 0 },
             { "type": "interestedBy", "variant": 3 },
             { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
+            { "type": "soundtrack", "variant": 4 },
+            { "type": "awards", "variant": 4 }
         ],
         "fields": {
             "work": {
