@@ -1,0 +1,148 @@
+{
+    "basics": {
+        "name": "John Paul Ada",
+        "label": "Data Engineer",
+        "picture": "https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.6435-9/75564589_1559442977529260_3804695787024154624_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEh2FbObDz1Bbov8SYcDn5N6R-0vWQcJGPpH7S9ZBwkYwF9dDDjAB1RJgbRqsxzbJaYkGKSrqQa706ifmHnpYgP&_nc_ohc=FJpw8V5qbeAAX-D29Ke&_nc_ht=scontent.fmnl17-2.fna&oh=710c5d0a83c33369e711c40f0d3b3d2a&oe=60F3D840",
+        "email": "johnpaulada@gmail.com",
+        "phone": "+639554514271",
+        "website": "github.com/johnpaulada",
+        "summary": "I'm a Data Engineer with a focus on Big Data.",
+        "location": {
+            "address": "GA Tower 2",
+            "postalCode": "1550",
+            "city": "Mandaluyong City",
+            "countryCode": "PH",
+            "region": "Metro Manila"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "johnpaulada",
+                "url": "https://github.com/johnpaulada"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "IBM",
+            "position": "Data Engineer - Big Data",
+            "website": "https://ibm.com",
+            "startDate": "2019-04-01",
+            "endDate": "",
+            "summary": "I transitioned into big data engineering work in one of my projects in IBM.",
+            "location": "Quezon City, Philippines",
+            "highlights": ["Setup big data environments.", "Created data processing scripts using PySpark", "Created bash scripts to orchestrate running data scripts."]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of the Philippines Visayas Tacloban College",
+            "area": "Social Sciences",
+            "studyType": "Psychology Degree",
+            "startDate": "2010-06-01",
+            "endDate": ""
+        }
+    ],
+    "awards": [
+        {
+            "title": "Microsoft MVP For Artificial Intelligence",
+            "date": "2019-10-01",
+            "awarder": "Microsoft",
+            "summary": "Got recognized by Microsoft as an expert and community leader in the field of cloud Artificial Intelligence."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "level": "Intermediate",
+            "value": 50,
+            "keywords": ["Python", "Big Data"]
+        },
+        {
+            "name": "PySpark",
+            "level": "Intermediate",
+            "value": 50,
+            "keywords": ["Python", "Big Data", "Spark"]
+        },
+        {
+            "name": "Bash",
+            "level": "Intermediate",
+            "value": 50,
+            "keywords": ["Bash", "Linux"]
+        }
+    ],
+    "languages": [{ "language": "Filipino", "value": 100, "fluency": "Native speaker" }, { "language": "English", "value": 90, "fluency": "Native speaker" } ],
+    "interests": [
+        {
+            "name": "Anime",
+            "gifUrl": "https://media.giphy.com/media/Id0IZ49MNMzKHI9qpV/giphy.gif",
+            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
+            "gifUser": {
+                "name": "Anime",
+                "profileUrl": "https://giphy.com/Anime/",
+                "isVerified": true,
+                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
+            }
+        }
+    ],
+    "references": [{ "name": "Stacy Keisha Ong", "reference": "Worked with Stacy closely working with integrating realtime processing with batch data processing." }],
+    "projects": [
+        {
+            "index": 0,
+            "date": { "month": 4, "year": 2019 },
+            "description": "Helped create a big data processing pipeline and warehouse for a domestic bank in the Philippines.",
+            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
+            "name": "Domestic Bank Digital Transformation",
+            "endDate": "2021-07-14"
+        }
+    ],
+    "specific": {
+        "basics": {
+            "personalDescription": "I like to follow things that are interesting to me. Career-wise, currently it is data and software architecture. Personally, I'm currently interested in personal optimization and fitness."
+        },
+        "dreamJob": {
+            "locations": [
+                { "name": "Tokyo, Japan" },
+                { "name": "Singapore, Singapore" }
+            ],
+            "remoteFrequency": "regularly"
+        },
+        "currentJob": {
+            "issues": { "boring_management": true, "boring_team": false }
+        },
+        "work": {
+            "contractTypes": ["permanent"],
+            "codingYears": 10,
+            "codingReason": "Being able to create things with just words and concepts is amazing!",
+            "searchState": "activelySearching",
+            "experienceYears": 6
+        },
+        "sound": {
+            "embedUrl": "https://open.spotify.com/embed/playlist/7ErKGEfeaxfAZnPy90vMaN"
+        },
+        "interestedBy": "Big Data, Data Engineering, Algorithms, Artificial Intelligence, Novel Software Design and Architectures"
+    },
+    "resumeCustomization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "dreamjob", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "gifs", "variant": 0 },
+            { "type": "interestedBy", "variant": 3 },
+            { "type": "language", "variant": 4 },
+            { "type": "soundtrack", "variant": 4 }
+        ],
+        "fields": {
+            "work": {
+                "customDateFormat": "YYYY"
+            }
+        }
+    }
+}
