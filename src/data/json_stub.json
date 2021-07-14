@@ -83,6 +83,17 @@
                 "isVerified": true,
                 "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
             }
+        },
+        {
+            "name": "Games",
+            "gifUrl": "https://media.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif",
+            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2c",
+            "gifUser": {
+                "name": "Games",
+                "profileUrl": "https://giphy.com/Genshin-Impact/",
+                "isVerified": true,
+                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
+            }
         }
     ],
     "references": [{ "name": "Stacy Keisha Ong", "reference": "Worked with Stacy closely working with integrating realtime processing with batch data processing." }],
@@ -102,6 +113,7 @@
         },
         "dreamJob": {
             "locations": [
+                { "name": "At Home" },
                 { "name": "Tokyo, Japan" },
                 { "name": "Singapore, Singapore" }
             ],
@@ -137,8 +149,8 @@
             { "type": "gifs", "variant": 0 },
             { "type": "interestedBy", "variant": 3 },
             { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 },
-            { "type": "awards", "variant": 4 }
+            { "type": "awards", "variant": 4 },
+            { "type": "soundtrack", "variant": 4 }
         ],
         "fields": {
             "work": {
